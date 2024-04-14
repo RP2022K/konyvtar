@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+  }
+ 
+  .background-image {
+    background-image: url('/assets/Bg.jpg');
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    z-index: -1;
+}
+
+.library-title{
+  background-color: rgba(161, 211, 54, 0.6);
+  color: white;
+  margin: 2vh 0 5vh 0;
+  font-size: 10rem;
+}
